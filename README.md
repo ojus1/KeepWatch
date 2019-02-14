@@ -4,7 +4,7 @@ This is a hobby project, a browser extension that will analyze URLs and server r
 
 ![Screen Shot](./example.png?raw=true)
 
-# Confusion Matrix for the Decision tree classifier
+### Confusion Matrix for the Decision tree classifier
 ![Confusion Matrix](./DecisionTreeCNF.png?raw=true)
 
 ### Prerequisites
@@ -14,11 +14,15 @@ Google Chrome
 
 ### Installation
 
-Clone this repository.
-Go to [chrome://extensions](chrome://extensions)
-Click on "Load Unpacked"
-Load the "KeepWatch" folder
-The extension should be up and running.
+    1. Go to [chrome://extensions](chrome://extensions)
+    2. Clone this repository.
+    3. Click on "Load Unpacked".
+    4. Load the "KeepWatch" folder.
+    5. The extension should be up and running.
+
+## To-Do
+    1. Adding Domain based features: Whois
+    2. Adding Geographic features
 
 
 ## Authors
