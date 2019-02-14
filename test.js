@@ -5,7 +5,7 @@ var url = "himselp.net.in/css/acrord.exe"; //Bad url
 //var url = "google.com";
 
 var features = text_utils.bow(url);
-//console.log(features.length);
+console.log(features.length);
 //console.log(features);
 
 

@@ -8930,8 +8930,5 @@
     
         return findMax(classes);
     };
-
-    module.exports = {
-        predict: predict
-    };
+    
 }());
